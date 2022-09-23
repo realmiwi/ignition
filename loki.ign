@@ -1,0 +1,1 @@
+{"ignition":{"version":"3.2.0"},"passwd":{"users":[{"name":"core","sshAuthorizedKeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMmxxkBQfUy8ouvaUjLe7mk87gtdukkzdm+sWRSwpYRG"]}]},"storage":{"files":[{"path":"/etc/hostname","contents":{"compression":"","source":"data:,loki%0A"},"mode":420}]}}
